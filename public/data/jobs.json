@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "San Francisco",
+    "type": "Remote",
+    "tags": ["React", "JavaScript", "Tailwind"]
+  },
+  {
+    "id": 2,
+    "title": "Backend Engineer",
+    "company": "DataSys",
+    "location": "New York",
+    "type": "Onsite",
+    "tags": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "Innovate",
+    "location": "London",
+    "type": "Remote",
+    "tags": ["React", "Node.js", "TypeScript"]
+  },
+  {
+    "id": 4,
+    "title": "Frontend Engineer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "type": "Onsite",
+    "tags": ["JavaScript", "React", "Web Components"]
+  },
+  {
+    "id": 5,
+    "title": "Software Engineer III",
+    "company": "Google",
+    "location": "Bangalore",
+    "type": "Remote",
+    "tags": ["Java", "Python", "React", "TypeScript"]
+  },
+  {
+    "id": 6,
+    "title": "Backend Developer",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "type": "Onsite",
+    "tags": ["Node.js", "Spring Boot", "AWS"]
+  },
+  {
+    "id": 7,
+    "title": "Software Engineer II",
+    "company": "Amazon",
+    "location": "Chennai",
+    "type": "Remote",
+    "tags": ["Java", "Microservices", "REST APIs"]
+  },
+  {
+    "id": 8,
+    "title": "Frontend Developer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "tags": ["React", "Redux", "TypeScript"]
+  },
+  {
+    "id": 9,
+    "title": "Full Stack Developer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "type": "Onsite",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "id": 10,
+    "title": "AI Product Engineer",
+    "company": "OpenAI",
+    "location": "Remote",
+    "type": "Remote",
+    "tags": ["Python", "React", "TypeScript"]
+  },
+  {
+    "id": 11,
+    "title": "Software Engineer",
+    "company": "Meta",
+    "location": "Remote",
+    "type": "Remote",
+    "tags": ["React", "GraphQL", "TypeScript", "Hack"]
+  },
+  {
+    "id": 12,
+    "title": "Full Stack Developer",
+    "company": "Apple",
+    "location": "Hyderabad",
+    "type": "Onsite",
+    "tags": ["Swift", "Node.js", "React"]
+  },
+  {
+    "id": 13,
+    "title": "Backend Engineer",
+    "company": "BlackBox",
+    "location": "Remote",
+    "type": "Remote",
+    "tags": ["Node.js", "Express", "PostgreSQL"]
+  },
+  {
+    "id": 14,
+    "title": "React Developer",
+    "company": "StartupHub",
+    "location": "Bangalore",
+    "type": "Hybrid",
+    "tags": ["React", "Tailwind", "Redux"]
+  },
+  {
+    "id": 15,
+    "title": "Web Developer",
+    "company": "CodeWave",
+    "location": "Pune",
+    "type": "Remote",
+    "tags": ["HTML5", "CSS3", "JavaScript", "Vue.js"]
+  }
+]
